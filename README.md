@@ -3,5 +3,5 @@ Untuk project ini kami membuat fasilitas hotel dengan menggunakan framework code
 Langkah-langkah untuk menjalankan program :
 1. nyalakan xampp yaitu apache dan mysql
 2. Kami menggunakan port localhost:8080, jika pada xampp anda default maka menggunakan localhost, namun harus tetap diganti base url yang terdapat pada
-application/config/config.php 
+application/config/config.php menjadi http://localhost/nama-folder/
 3. setelah itu program tersebut dapat dilihat hasilnya
